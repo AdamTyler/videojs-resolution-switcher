@@ -48,6 +48,6 @@
 		"videojs-contrib-hls": "^2.1.1"
   },
   "peerDependencies": {
-    "video.js": "^5.8"
+    "video.js": "^6.2"
   }
 }
